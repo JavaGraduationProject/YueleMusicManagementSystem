@@ -1,0 +1,3 @@
+2024-07-07T00:12:38.581+08:00 DEBUG 6144 --- [SpringApplicationShutdownHook] c.i.sys.utils.admin.SpringContextHolder  : 清除SpringContextHolder中的ApplicationContext:org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@235a0c16, started on Thu Jul 04 00:44:46 CST 2024
+2024-07-07T00:12:38.586+08:00  INFO 6144 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2024-07-07T00:12:38.591+08:00  INFO 6144 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

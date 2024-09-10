@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="genSqlFilePath" value="$PROJECT_DIR$/sui-springboot/src/main/java/com/icss/entity" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>
